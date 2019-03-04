@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegisterandLogin</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="Not_registered">nor_registered</string>
+    <string name="Register">register</string>
+    <string name="Already_Registered">already_registered</string>
+    <string name="Login">login</string>
+    <string name="email">email</string>
+</resources>
